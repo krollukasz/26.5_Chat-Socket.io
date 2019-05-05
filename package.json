@@ -1,0 +1,49 @@
+{
+  "name": "26.5_chat-socket.io",
+  "version": "1.0.0",
+  "description": "Chat_app_with_Socket_io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krollukasz/26.5_Chat-Socket.io.git"
+  },
+  "keywords": [
+    "Chat",
+    "Socket_io",
+    "App",
+    "Learning"
+  ],
+  "author": "Łukasz Król",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krollukasz/26.5_Chat-Socket.io/issues"
+  },
+  "homepage": "https://github.com/krollukasz/26.5_Chat-Socket.io#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "@babel/preset-react": "^7.0.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^2.1.1",
+    "express": "^4.16.4",
+    "html-webpack-plugin": "^3.2.0",
+    "optimize-js-plugin": "0.0.4",
+    "react-hot-loader": "^4.8.4",
+    "socket.io": "^2.2.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.3.1"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "socket.io-client": "^2.2.0"
+  }
+}
