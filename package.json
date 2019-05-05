@@ -4,6 +4,8 @@
   "description": "Chat_app_with_Socket_io",
   "main": "index.js",
   "scripts": {
+    "build": "webpack --env production",
+    "start": "webpack-dev-server --hot --env development",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
